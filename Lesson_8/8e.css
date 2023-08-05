@@ -1,0 +1,35 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-block: 0;
+}
+input {
+  border: none;
+  font-size: 14px;
+  background-color: #F0F0F0;
+  color: gray;
+  padding: 10px 16px;
+  width: 300px;
+  display: block;
+  margin-bottom: 8px;
+}
+.title {
+  font-size: 32px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 16px 20px;
+  font-size: 14px;
+  border: none;
+  margin-right: 10px;
+}
+.request-btn {
+  background-color: black;
+  color: white;
+}
+.schedule-for-later-btn {
+  color: black;
+  font-weight: 500;
+}

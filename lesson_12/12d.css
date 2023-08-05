@@ -1,0 +1,11 @@
+.div{
+    background-color: lightcoral;
+   
+}
+.flex{
+    border: 1px solid gray;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
